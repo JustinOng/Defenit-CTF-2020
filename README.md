@@ -1,3 +1,7 @@
+## AdultJS
+
+[Parser](parser-adultjs.js) for *AdultJS*, a challenge involving identifying useful function calls. More info can be found [here](https://blog.justins.in/defenit2020#adultjs)
+
 ## Bad Tumblers
 
 Working for *Bad Tumblers*, a challenge involving identifying information from cryptocurrency tumbler networks.
